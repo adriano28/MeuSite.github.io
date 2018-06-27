@@ -183,9 +183,9 @@ address{
 footer{
     background:black;
     color: bisque;
-	text-align: center;
-	height: 120px;
-	margin-bottom: -10px;
+	  text-align: center;
+	  height: 120px;
+	  margin-bottom: -10px;
 }
 
 @media (min-width: 577px) and (max-width: 768px){
