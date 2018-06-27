@@ -118,7 +118,7 @@ img.grayscale:hover{
   font-weight: none;
 }
 #cardapio{
-    background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("../images/img08.jpg");
+    background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("img08.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
